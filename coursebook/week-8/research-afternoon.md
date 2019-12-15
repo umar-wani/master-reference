@@ -5,8 +5,8 @@
   of using promises?
 - What are the downsides to using Fetch? i.e. what does fetch not do for you?
 
-## Express Middlewares
-- What are express middlewares?
+## Express Middleware
+- What are express middleware?
 - What functionality do they provide?
 - What are some examples of useful express middleware and 
 how do you use them ([several useful examples](https://blog.jscrambler.com/setting-up-5-useful-middlewares-for-an-express-api/))
