@@ -283,5 +283,5 @@ You should know:
 	- [ ] Installation instructions
 	- [ ] Goals/stretch goals
 	- [ ] [User stories and acceptance criteria](https://blog.easyagile.com/how-to-write-good-user-stories-in-agile-software-development-d4b25356b604)
-	- [ ] GIFs to show off specific features
+	- [ ] Screengrab GIFs to show off specific features
 	- [ ] Badges to show test coverage, build status
