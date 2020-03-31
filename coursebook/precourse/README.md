@@ -2,7 +2,7 @@
 
 The purpose of our [precourse material](#precourse-material) is to make sure that everyone is familiar with the key concepts we will be using throughout your time here. A solid grounding in the fundamentals will help you immensely. Please make sure you have finished the precourse material and installed the software on our [Installation List](#installation-list) before day 1 of your course.
 
-We will be having an installation party shortly before you arrive. But if you are unable to attend, you can also do this by yourself. If you run into any difficulties, just get in touch.
+We will be having an installation party shortly before you arrive. If you are using a **Windows OS** then attending this installation party is **crucial**. But if you are unable to attend, you can also do this by yourself. If you run into any difficulties, just get in touch.
 
 ## Precourse Material
 
@@ -16,13 +16,13 @@ We will be having an installation party shortly before you arrive. But if you ar
 
 Please do not forget that **we don't use frameworks at FAC** – ignore Bootstrap and JQuery, and make sure you work in vanilla HTML, CSS and JavaScript. Head over to our [house rules](../general/house-rules.md) to find out why.
 
-If you have any problems with the following material, feel free to reach out to us through your cohort's gitter channel!
+If you have any problems with the following material, feel free to reach out to us through your cohort's slack channel!
 
 
 ### Command Line
 
 _Learning outcome:_  
-+ Be familiar with navigating around your computer without using a GUI.
++ Be familiar with navigating around your computer without using a Graphical User Interface (GUI).
 
 _Resources:_  
 + Learn Python The Hard Way has a great [Command Line Interface Crash Course](https://learnpythonthehardway.org/book/appendixa.html).
@@ -47,7 +47,7 @@ _Resources:_
 ### Semantic HTML
 
 _Learning outcome:_  
-+ Be familiar with new HTML5 elements.
++ Be familiar with new & [accessible](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) HTML5 elements.
 
 _Resources:_  
 + [Here](https://www.youtube.com/watch?gl=GB&hl=en-GB&v=OGg8A2zfWKg) is a 6 minute youtube video to introduce you to the concept of the semantic web. You will be expected to write semantically during week 1, so brush up with the following:
@@ -117,13 +117,15 @@ For Linux Users:
 - Ubuntu and Linux Mint are probably the two most used desktop Linux distros out there. Mint is becoming increasingly popular and in a lot of ways, is more beginner-friendly than Ubuntu. It also uses up less memory resource (the most lightweight Mint edition is XFCE), and will be better suited to slower machines.
 
 For Windows Users:
-- [This is a great article](https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows) on setting up a dev environment with the new Windows Linux Subsystem (basically Bash-on-Windows). Also MS just announced they're [putting a Linux kernel into Windows](https://devblogs.microsoft.com/commandline/announcing-wsl-2/)
 
-- If you do want to dual boot, there are a lot of articles online about dualbooting windows + linux, and due to a lot of different OS configurations you may be best off searching google for your specific OS + Ubuntu (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful
+You **must** install Linux. Without dual booting Linux, you will encounter problems when we begin database week. In the past, this has led to students missing whole days of workshops while they troubleshoot. 
+
+- To dual boot, there are a lot of articles online about dualbooting windows + linux, and due to a lot of different OS configurations you may be best off searching google for your specific OS + Ubuntu (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful
 
 - [How to install Ubuntu 18.04 alongside Windows 10](https://askubuntu.com/questions/1031993/how-to-install-ubuntu-18-04-alongside-windows-10) - useful at time of posting (mid 2018)
 - [Dual boot Linux](https://www.howtogeek.com/214571/how-to-dual-boot-linux-on-your-pc/) 
-- Finally please do not hesistate to come to a meetup or contact us on gitter if you are having trouble, we can help!
+- We shall have a couple of FAC students and alumni available at the installation party to guide you through installing linux. Please come along if you have Windows OS. 
+- Finally please do not hesistate to come to a meetup or contact us on slack if you are having trouble, we can help!
 
 Chromebook Users:
 
@@ -138,9 +140,9 @@ Note: We will be covering Node.js during the course. If you are curious and woul
   - [VS Code](https://code.visualstudio.com/)
 - Install Chrome
 - [Setup SSH access to your Github account](https://help.github.com/articles/generating-an-ssh-key/)
+- Install [Postman](https://www.postman.com/)
 - Chrome extensions:
   - JSONView
-  - Postman
 - Make sure to explore your editors plugin ecosystem for useful plugins:
   - [VSCode Marketplace](https://marketplace.visualstudio.com/VSCode)
   - [Atom packages](https://atom.io/packages)
