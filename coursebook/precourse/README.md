@@ -47,7 +47,7 @@ _Resources:_
 ### Semantic HTML
 
 _Learning outcome:_  
-+ Be familiar with new & [accessible](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) HTML5 elements.
++ Be familiar with [accessible](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) HTML5 elements.
 
 _Resources:_  
 + [Here](https://www.youtube.com/watch?gl=GB&hl=en-GB&v=OGg8A2zfWKg) is a 6 minute youtube video to introduce you to the concept of the semantic web. You will be expected to write semantically during week 1, so brush up with the following:
