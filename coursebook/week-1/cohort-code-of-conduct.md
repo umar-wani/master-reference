@@ -1,4 +1,4 @@
-# Cohort Code of Conduct
+# Cohort Expectations
 
 This activity will result in a shared code of conduct that you have collectively agreed to. These are rules that you will be expected to live up to, and that you can expect everyone else in your cohort to live up to as well.
 
